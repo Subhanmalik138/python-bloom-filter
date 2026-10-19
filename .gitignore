@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Bloom filter artifacts produced by the CLI
+*.bloom
+
+# OS / editors
+.DS_Store
